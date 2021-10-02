@@ -1,6 +1,7 @@
 ## Jaime Ramirez-Cuellar
 2019 North Hall, Santa Barbara, CA 93106-9210, USA\
-[Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)
+[Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)\
+[Website](https://jaimeramirezcuellar.wordpress.com/)
 
 ### EDUCATION
 
@@ -23,8 +24,8 @@ soon)
 
 ### WORKING PAPERS
 
-**"At What Level Should One Cluster Standard Errors in Paired and
-Small-Strata Experiments?\"** (with Clément de Chaisemartin). Revision
+[**"At What Level Should One Cluster Standard Errors in Paired and
+Small-Strata Experiments?\"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820) (with Clément de Chaisemartin). Revision
 Requested in the *American Economic Journal: Applied Economics*.
 
 In paired experiments, units are matched into pairs, and one unit of
@@ -42,7 +43,7 @@ experiments with few units per strata.
 
 **Dissertation Committee**
 -   **Professor Richard Startz**, UCSB\
-&nbsp; Email: [startz\@econ.ucsb.edu](mailto:startz@ucsb.edu)
+&nbsp; Email: [startz@econ.ucsb.edu](mailto:startz@ucsb.edu)
 -   **Professor Douglas Steigerwald**, UCSB\
 &nbsp; Email: <doug@ucsb.edu>
 -   **Professor Clément de Chaisemartin**, Sciences Po\
