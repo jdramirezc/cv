@@ -1,15 +1,16 @@
+## Jaime Ramirez-Cuellar
 2019 North Hall, Santa Barbara, CA 93106-9210, USA\
-[Email: jrc\@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)
+[Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)
 
 ### EDUCATION
 
 **University of California**, Santa Barbara, CA\
-Ph.D. (c) in Economics (expected)\
-M.A. in Economics
+Ph.D. (c) in Economics, 2022 (expected)\
+M.A. in Economics, 2017
 
 **National University of Colombia**, Bogotá, Colombia\
-M.S. in Economics\
-B.S. in Economics
+M.S. in Economics, 2012\
+B.S. in Economics, 2011
 
 ### FIELDS
 
@@ -48,9 +49,9 @@ experiments with few units per strata.
 &nbsp; Email: <clement.dechaisemartin@sciencespo.fr>
 
 **Placement Director**: Professor Sevgi Yuksel, UCSB,
-Email: [sevgi.yuksel\@econ.ucsb.edu](mailto:sevgi.yuksel@ucsb.edu)\
+Email: [sevgi.yuksel@econ.ucsb.edu](mailto:sevgi.yuksel@ucsb.edu)\
 **Graduate Coordinator**: Mark Patterson, UCSB,
-Email: [econ-jobmarket\@ucsb.edu](mailto:econ-jobmarket@ucsb.edu
+Email: [econ-jobmarket@ucsb.edu](mailto:econ-jobmarket@ucsb.edu
 )
 
 ### TEACHING EXPERIENCE
@@ -160,7 +161,3 @@ Working knowledge: Python, PySpark, Eviews
 English (Fluent), Spanish (Native), Portuguese (Advanced)
 
 *Updated: October 2021*
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
