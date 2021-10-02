@@ -9,7 +9,7 @@ Ph.D. (c) in Economics, 2022 (expected)\
 M.A. in Economics, 2017
 
 **National University of Colombia**, Bogotá, Colombia\
-M.S. in Economics, 2012\
+M.S. in Economics, 2012 \
 B.S. in Economics, 2011
 
 ### FIELDS
