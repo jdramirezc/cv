@@ -1,6 +1,7 @@
 ## Jaime Ramirez-Cuellar
 2019 North Hall, Santa Barbara, CA 93106-9210, USA\
-[Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)
+[Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)\
+[(PDF version available here)](https://ucsb.app.box.com/file/867460274263?s=ksill3l2h2lq1dso7s0cq7dqj7ds6dva)
 
 ### EDUCATION
 
