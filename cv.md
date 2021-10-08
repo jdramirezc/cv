@@ -63,7 +63,7 @@ Email: [econ-jobmarket@ucsb.edu](mailto:econ-jobmarket@ucsb.edu
 -   Math Boot Camp (*Graduate*), Summer 2018
 
 *Teaching Assistant*
--   Principles of Macroeconomics (*Undergraduate*), Fall 2020
+-   Principles of Macroeconomics (*Undergraduate*), Fall 2021
 -   Econometrics (*Undergraduate*, Head TA), Jul 2020-Jun 2021
 -   Econometric Theory - Causal Inference (*Graduate*), Spring 2020
 -   Principles of Macroeconomics (*Undergraduate*), Winter 2020
@@ -140,6 +140,7 @@ Conference Organizer: Southern California Graduate Conference in Applied
 Economics, 2021\
 Discussant: Los Angeles Conference in Applied Economics, 2019
 
+Mentor:  Graduate Division Scholars Program, UCSB, 2021\
 Member of Economics Diversity Task Force, UCSB, 2020\
 Mentor: Economics Graduate Student Association, UCSB, 2019\
 Community outreach: California Forum for Diversity in Graduate Education
