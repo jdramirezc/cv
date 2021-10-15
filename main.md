@@ -2,7 +2,9 @@
 
 I am a Ph.D. candidate in the Department of Economics at the University of California, Santa Barbara.
 My research interests include Econometrics and Labor Economics. 
-I will be available for interviews at the 2022 ASSA meetings and at the 4th European Job Market for Economists.
+
+I am on the job market during the 2021-2022 cycle.
+ 
 
 ### JOB MARKET PAPER
 
