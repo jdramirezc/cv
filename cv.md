@@ -19,14 +19,15 @@ Econometrics, Labor Economics
 
 ### JOB MARKET PAPER
 
-**"Testing for Idiosyncratic Treatment Effect Heterogeneity\"** (coming
-soon)
+[**"Testing for Idiosyncratic Treatment Effect Heterogeneity.\"**](https://drive.google.com/file/d/1wZR87_IwcVOtQ1XJklt9i11T94E12ZZt/view?usp=sharing) [(Link here)](https://drive.google.com/file/d/1wZR87_IwcVOtQ1XJklt9i11T94E12ZZt/view?usp=sharing)
+
+This paper provides asymptotically valid tests for the null hypothesis of no treatment effect heterogeneity. Importantly, I consider the presence of heterogeneity that is not explained by observed characteristics, or so-called idiosyncratic heterogeneity. When examining this heterogeneity, common statistical tests encounter a nuisance parameter problem in the average treatment effect which renders the asymptotic distribution of the test statistic dependent on that parameter. I propose an asymptotically valid test that circumvents the estimation of that parameter using the empirical characteristic function. A simulation study illustrates not only the test’s validity but its higher power in rejecting a false null as compared to current tests. Furthermore, I show the method’s usefulness through its application to a microfinance experiment in Bosnia and Herzegovina. In this experiment and for outcomes related to loan take-up and self-employment, the tests suggest that treatment effect heterogeneity does not seem to be completely accounted for by baseline characteristics. For those outcomes, researchers could potentially try to collect more baseline characteristics to inspect the remaining treatment effect heterogeneity, and potentially, improve treatment targeting.
 
 ### WORKING PAPERS
 
 [**"At What Level Should One Cluster Standard Errors in Paired and
 Small-Strata Experiments?\"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820) (with Clément de Chaisemartin). Revision
-Requested in the *American Economic Journal: Applied Economics*.
+Requested in the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
 
 In paired experiments, units are matched into pairs, and one unit of
 each pair is randomly assigned to treatment. To estimate the treatment
@@ -90,14 +91,14 @@ Email: [econ-jobmarket@ucsb.edu](mailto:econ-jobmarket@ucsb.edu
 ### RELEVANT EXPERIENCE
 
 **University of California**, Santa Barbara, CA \
-*Research Assistant to Dick Startz, Doug Steigerwald, Finn Kydland*\
+*Research Assistant to Professors Richard Startz, Douglas Steigerwald, and Finn Kydland*\
 Projects: Structural Econometrics, Bayesian Econometrics, Regime
 Switching Tests, Andhra Pradesh Priorities, 2017-2019\
 *Newsletter Contributor*, LAEF, Summers 2018, 2019, 2020
 
 **Inter-American Development Bank**, Washington, DC, Jul 2014-Jul 2016\
 *Research Fellow to Eduardo Cavallo, Julian Caballero, Andrés Fernández,
-Carola Pessino and Ernesto Stein*
+Carola Pessino, and Ernesto Stein*
 
 **Colombian Financial Supervisor**, Bogotá, Colombia\
 *Senior Analyst*, Research and Development Directorate, May 2013-Jun
