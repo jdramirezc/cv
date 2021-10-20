@@ -9,8 +9,8 @@ You can find my C.V. here: [[web]](https://jdramirezc.github.io/cv/cv) or [[PDF]
  
 ### JOB MARKET PAPER
 
-**"Testing for Idiosyncratic Treatment Effect Heterogeneity\"** (coming
-soon)
+**"Testing for Idiosyncratic Treatment Effect Heterogeneity\"** [(Link here)](https://drive.google.com/file/d/1wZR87_IwcVOtQ1XJklt9i11T94E12ZZt/view?usp=sharing)
+
 
 ### WORKING PAPERS
 
