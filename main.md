@@ -14,6 +14,6 @@ You can find my C.V. here: [[web]](https://jdramirezc.github.io/cv/cv) or [[PDF]
 
 ### WORKING PAPERS
 
-[**"At What Level Should One Cluster Standard Errors in Paired and
-Small-Strata Experiments?\"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820) (with Clément de Chaisemartin). Revision
-requested by the *American Economic Journal: Applied Economics*.
+**"At What Level Should One Cluster Standard Errors in Paired and
+Small-Strata Experiments?\"** (with Clément de Chaisemartin). Revision
+requested by the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
