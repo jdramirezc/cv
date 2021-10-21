@@ -17,3 +17,18 @@ You can find my C.V. here: [[web]](https://jdramirezc.github.io/cv/cv) or [[PDF]
 **"At What Level Should One Cluster Standard Errors in Paired and
 Small-Strata Experiments?\"** (with Clément de Chaisemartin). Revision
 requested by the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
+
+### REFERENCES
+
+**Dissertation Committee**
+-   **Professor Richard Startz**, UCSB\
+&nbsp; Email: [startz@econ.ucsb.edu](mailto:startz@ucsb.edu)
+-   **Professor Douglas Steigerwald**, UCSB\
+&nbsp; Email: <doug@ucsb.edu>
+-   **Professor Clément de Chaisemartin**, Sciences Po\
+&nbsp; Email: <clement.dechaisemartin@sciencespo.fr>
+
+**Placement Director**: Professor Sevgi Yuksel, UCSB,
+Email: [sevgi.yuksel@econ.ucsb.edu](mailto:sevgi.yuksel@ucsb.edu)\
+**Graduate Coordinator**: Mark Patterson, UCSB,
+Email: [econ-jobmarket@ucsb.edu](mailto:econ-jobmarket@ucsb.edu)
