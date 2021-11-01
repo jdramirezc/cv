@@ -6,6 +6,8 @@ My research interests include Econometrics and Labor Economics.
 I am on the job market during the 2021-2022 cycle.
 
 You can find my C.V. here: [[web]](https://jdramirezc.github.io/cv/cv) or [[PDF]](https://ucsb.app.box.com/file/867460274263?s=ksill3l2h2lq1dso7s0cq7dqj7ds6dva).
+
+Work Phone: +1 (646) 679-6955
  
 ### JOB MARKET PAPER
 
