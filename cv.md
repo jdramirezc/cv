@@ -136,7 +136,7 @@ Conference (UC Davis), Econometric Society's Latin American Meetings
 
 American Economic Association, Econometric Society, Latin American and
 Caribbean Economic Association, Broom Center for Demography, American
-Society of Hispanic Economists
+Society of Hispanic Economists, European Economic Association
 
 ### PROFESSIONAL ACTIVITIES
 
