@@ -167,4 +167,4 @@ Working knowledge: Python, PySpark, Eviews
 
 English (Fluent), Spanish (Native), Portuguese (Advanced)
 
-*Updated: October 2021*
+*Updated: November 2021*
