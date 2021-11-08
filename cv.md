@@ -114,7 +114,7 @@ Salazar, and Adolfo Barajas*
 
 ### HONORS & AWARDS
 
-Graduate Student Prize, UCSB, Fall 2020\
+Prize for Scholarship, Teaching, and Service, UCSB, Fall 2020\
 Research Quarter Fellowship, UCSB, Fall 2019\
 Costas Fellowship, UCSB, Spring 2019\
 Gretler Fellowship, UCSB, Summer 2018\
