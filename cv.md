@@ -104,7 +104,7 @@ Switching Tests, Andhra Pradesh Priorities, 2017-2019\
 *Research Fellow to Eduardo Cavallo, Julian Caballero, Andrés Fernández,
 Carola Pessino, and Ernesto Stein*
 
-**Colombian Financial Supervisor**, Bogotá, Colombia\
+**Office of the Colombian Financial Supervisor**, Bogotá, Colombia\
 *Senior Analyst*, Research and Development Directorate, May 2013-Jun
 2014
 
