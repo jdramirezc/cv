@@ -1,6 +1,6 @@
 ## Teaching
 
-For students of Economics 2 (Principles of Macroeconomics), my office hours for the 2021 Fall quarter are on Wednesdays from 2 to 4 pm. For more information, please refer to [GauchoSpace](https://gauchospace.ucsb.edu/courses/).
+For students of Economics 2 (Principles of Macroeconomics), my office hours for the rest of the 2022 Winter quarter are on Mondays from 4 to 8 pm. For more information, please refer to [GauchoSpace](https://gauchospace.ucsb.edu/courses/).
 
 ### Sample Materials as an Instructor (syllabi, code, assignments, solutions, and slides)
 Short course Data Hack in R: [[click here]](https://ucsb.box.com/s/mn0zhswsx4jikixfiyvxprqwphx3znok)\
