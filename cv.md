@@ -19,7 +19,7 @@ Econometrics, Labor Economics
 
 ### CITIZENSHIP
 
-Colombian
+Colombian (F1 Visa with STEMP OPT option)
 
 ### JOB MARKET PAPER
 
@@ -68,7 +68,7 @@ Email: [econ-jobmarket@ucsb.edu](mailto:econ-jobmarket@ucsb.edu
 -   Math Boot Camp (*Graduate*), Summer 2018
 
 *Teaching Assistant*
--   Principles of Macroeconomics (*Undergraduate*), Fall 2021
+-   Principles of Macroeconomics (*Undergraduate*), Fall 2021-Winter 2022
 -   Econometrics (*Undergraduate*, Head TA), Jul 2020-Jun 2021
 -   Econometric Theory - Causal Inference (*Graduate*), Spring 2020
 -   Principles of Macroeconomics (*Undergraduate*), Winter 2020
@@ -127,6 +127,7 @@ Scholarship for Master Studies, Fedesarrollo, Feb-May 2012
 
 ### CONFERENCE PRESENTATIONS
 
+2022: RCEA Econometrics Conference
 2020: American Causal Inference Conference (postponed)\
 2019: Advances in Field Experiments (U Chicago), California Econometrics
 Conference (UC Davis), Econometric Society's Latin American Meetings
@@ -160,11 +161,10 @@ Data Hack in R, UCSB (Undergraduate), Summers 2018, 2019
 
 ### COMPUTER SKILLS
 
-Proficient: R, Stata, Matlab\
-Working knowledge: Python, PySpark, Eviews
+R, Stata, Matlab, Python, PySpark, RStan, SQL, UNIX, Eviews, 
 
 ### LANGUAGES
 
 English (Fluent), Spanish (Native), Portuguese (Advanced)
 
-*Updated: November 2021*
+*Updated: February 2022*
