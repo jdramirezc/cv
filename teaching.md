@@ -1,7 +1,5 @@
 ## Teaching
 
-For students of Economics 2 (Principles of Macroeconomics), my office hours for the rest of the 2022 Winter quarter are on Mondays from 4 to 8 pm. For more information, please refer to [GauchoSpace](https://gauchospace.ucsb.edu/courses/).
-
 ### Sample Materials as an Instructor (syllabi, code, assignments, solutions, and slides)
 Short course Data Hack in R: [[click here]](https://ucsb.box.com/s/mn0zhswsx4jikixfiyvxprqwphx3znok)\
 Short course Stata Skills: [[click here]](https://ucsb.box.com/s/5lcxvo1j5m2x0s71h9erqndweia3jm23)
@@ -13,8 +11,8 @@ Short course Stata Skills: [[click here]](https://ucsb.box.com/s/5lcxvo1j5m2x0s7
 * Math Camp (graduate, Summer 2018)
 
 **Graduate Teaching Assistant:**
+* Econometrics (undergraduate, Jul 2020–Jun 2021, Spring 2022)
 * Principles of Macroeconomics    (undergraduate, Fall 2021)
-* Econometrics (undergraduate, Jul 2020–Jun 2021)
 * Econometric Theory - Causal Inference (graduate, Spring 2020)
 * Principles of Macroeconomics (undergraduate, Winter 2020)
 * Financial Management (undergraduate, Fall 2018)
