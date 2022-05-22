@@ -18,7 +18,7 @@ Work Phone: +1 (646) 679-6955
 Small-Strata Experiments?\"** (with Clément de Chaisemartin). Revision
 requested by the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
 
-**"Pandemic Effects on Market Power and Profitability\"** (with Juan Espinosa-Torres).
+**"The Pandemic Effects on Market Power and Profitability\"** (with Juan Espinosa-Torres).
 
 ### REFERENCES
 
