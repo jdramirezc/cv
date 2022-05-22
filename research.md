@@ -14,4 +14,4 @@ requested by the *American Economic Journal: Applied Economics*. [(Link here)](h
 
 Abstract: In clustered paired experiments, units are matched into pairs, and one unit of each pair is randomly assigned to treatment. To estimate the treatment effect, researchers often regress their outcome on a treatment indicator and pair fixed effects, clustering standard errors at the unit-of-randomization level. We show that the variance estimator in this regression may be severely downward biased: under constant treatment effect, its expectation equals 1/2 of the true variance. Instead, we show that researchers should cluster their standard errors at the pair level. Using simulations, we show that those results extend to stratified experiments with few units per strata.
 
-“The Pandemic Effects on Market Power and Profitability” (with Juan Espinosa-Torres).
+**"The Pandemic Effects on Market Power and Profitability"** (with Juan Espinosa-Torres).
