@@ -35,8 +35,9 @@ Requested in the *American Economic Journal: Applied Economics*. [(Link here)](h
 
 In clustered paired experiments, units are matched into pairs, and one unit of each pair is randomly assigned to treatment. To estimate the treatment effect, researchers often regress their outcome on a treatment indicator and pair fixed effects, clustering standard errors at the unit-of-randomization level. We show that the variance estimator in this regression may be severely downward biased: under constant treatment effect, its expectation equals 1/2 of the true variance. Instead, researchers should cluster their standard errors at the pair level. Using simulations, we show that those results extend to stratified experiments with few units per strata.
 
-“The Pandemic Effects on Market Power and Profitability” (with Juan Espinosa-Torres).
+[**"The Pandemic Effects on Market Power and Profitability"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120819) (with Juan Espinosa-Torres). [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120819)
 
+We explore firm-level markup and profit rates during the COVID-19 pandemic for a panel of 3,548 publicly-traded firms in Compustat and find increases for the average firm. Those increases can be captured by previous trends in market power and profitability. Furthermore, focusing on the average firm masks large heterogeneity in the disruption caused by the pandemic. We complement our analysis by studying heterogeneity by pre-pandemic baseline markup rates, firm size, stock-exchange tenure, employment, profitability, and market share. We find that firms that have lower profitability than what we could expect from their previous trends tend to have lower markup rates, higher market shares, and more employees.
 
 ### REFERENCES
 
