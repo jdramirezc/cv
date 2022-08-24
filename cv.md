@@ -1,4 +1,5 @@
 ## Jaime Ramirez-Cuellar
+Senior Research Economist at Microsoft Research, Redmond, WA\
 99/4623, 14820 NE 36th St, Redmond, WA 98052\
 [Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)\
 [(PDF version available here)](https://ucsb.app.box.com/file/867460274263?s=ksill3l2h2lq1dso7s0cq7dqj7ds6dva)
@@ -6,7 +7,7 @@
 ### EDUCATION
 
 **University of California**, Santa Barbara, CA\
-Ph.D. (c) in Economics, 2022\
+Ph.D. in Economics, 2022\
 M.A. in Economics, 2017
 
 **National University of Colombia**, Bogotá, Colombia\
