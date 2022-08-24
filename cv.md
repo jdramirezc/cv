@@ -1,12 +1,12 @@
 ## Jaime Ramirez-Cuellar
-2019 North Hall, Santa Barbara, CA 93106-9210, USA\
+99/4623, 14820 NE 36th St, Redmond, WA 98052\
 [Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)\
 [(PDF version available here)](https://ucsb.app.box.com/file/867460274263?s=ksill3l2h2lq1dso7s0cq7dqj7ds6dva)
 
 ### EDUCATION
 
 **University of California**, Santa Barbara, CA\
-Ph.D. (c) in Economics, 2022 (expected)\
+Ph.D. (c) in Economics, 2022\
 M.A. in Economics, 2017
 
 **National University of Colombia**, Bogotá, Colombia\
@@ -49,12 +49,6 @@ We explore firm-level markup and profit rates during the COVID-19 pandemic for a
 -   **Professor Clément de Chaisemartin**, Sciences Po\
 &nbsp; Email: <clement.dechaisemartin@sciencespo.fr>
 
-**Placement Director**: Professor Sevgi Yuksel, UCSB,
-Email: [sevgi.yuksel@econ.ucsb.edu](mailto:sevgi.yuksel@ucsb.edu)\
-**Graduate Coordinator**: Mark Patterson, UCSB,
-Email: [econ-jobmarket@ucsb.edu](mailto:econ-jobmarket@ucsb.edu
-)
-
 ### TEACHING EXPERIENCE
 
 **University of California**, Santa Barbara, CA\
@@ -63,8 +57,8 @@ Email: [econ-jobmarket@ucsb.edu](mailto:econ-jobmarket@ucsb.edu
 -   Math Boot Camp (*Graduate*), Summer 2018
 
 *Teaching Assistant*
+-   Econometrics (*Undergraduate*, Head TA), Jul 2020-Jun 2021, Spring 2022
 -   Principles of Macroeconomics (*Undergraduate*), Fall 2021-Winter 2022
--   Econometrics (*Undergraduate*, Head TA), Jul 2020-Jun 2021
 -   Econometric Theory - Causal Inference (*Graduate*), Spring 2020
 -   Principles of Macroeconomics (*Undergraduate*), Winter 2020
 -   Financial Management (*Undergraduate*), Fall 2018
@@ -122,7 +116,7 @@ Scholarship for Master Studies, Fedesarrollo, Feb-May 2012
 
 ### CONFERENCE PRESENTATIONS
 
-2022: RCEA Econometrics Conference
+2022: RCEA Econometrics Conference, Econometric Society Australasian Meetings
 2020: American Causal Inference Conference (postponed)\
 2019: Advances in Field Experiments (U Chicago), California Econometrics
 Conference (UC Davis), Econometric Society's Latin American Meetings
@@ -162,4 +156,4 @@ R, Stata, Matlab, Python, PySpark, RStan, SQL, UNIX, Eviews,
 
 English (Fluent), Spanish (Native), Portuguese (Advanced)
 
-*Updated: February 2022*
+*Updated: August 2022*
