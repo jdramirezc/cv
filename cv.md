@@ -137,7 +137,7 @@ Conference Organizer: Southern California Graduate Conference in Applied
 Economics, 2020\
 Discussant: Los Angeles Conference in Applied Economics, 2019
 
-Mentor:  American Economics Association - CSQIEP, UCSB, 2022-23\
+Mentor:  American Economics Association - CSQIEP, 2022-23\
 Mentor:  Graduate Division Scholars Program, UCSB, 2021\
 Member of Economics Diversity Task Force, UCSB, 2020\
 Mentor: Economics Graduate Student Association, UCSB, 2019\
