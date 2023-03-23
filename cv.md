@@ -1,5 +1,5 @@
 ## Jaime Ramirez-Cuellar
-Senior Research Economist at Microsoft Research, Redmond, WA\
+Senior Research Economist at Microsoft, Redmond, WA\
 99/4623, 14820 NE 36th St, Redmond, WA 98052\
 [Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)\
 [(PDF version available here)](https://ucsb.app.box.com/file/867460274263?s=ksill3l2h2lq1dso7s0cq7dqj7ds6dva)
@@ -33,11 +33,11 @@ This paper provides asymptotically valid tests for the null hypothesis of no tre
 [**"At What Level Should One Cluster Standard Errors in Paired and
 Small-Strata Experiments?\"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820) (with Clément de Chaisemartin). Conditionally accepted in the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
 
-In clustered paired experiments, units are matched into pairs, and one unit of each pair is randomly assigned to treatment. To estimate the treatment effect, researchers often regress their outcome on a treatment indicator and pair fixed effects, clustering standard errors at the unit-of-randomization level. We show that the variance estimator in this regression may be severely downward biased: under constant treatment effect, its expectation equals 1/2 of the true variance. Instead, researchers should cluster their standard errors at the pair level. Using simulations, we show that those results extend to stratified experiments with few units per strata.
+In clustered and paired experiments, to estimate treatment effects, researchers often regress their outcome on the treatment and pair fixed effects, clustering standard errors at the unit-of-randomization level. We show that even if the treatment has no effect, a 5%-level t-test based on this regression will wrongly conclude that the treatment has an effect up to 16.5% of the time, an error rate much larger than the researcher's 5% target. To achieve their targeted error rate, researchers should instead cluster standard errors at the pair level. Using simulations, we show that similar results apply to clustered experiments with small strata.
 
 [**"The Pandemic Effects on Market Power and Profitability"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120819) (with Juan Espinosa-Torres). [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120819)
 
-We explore firm-level markup and profit rates during the COVID-19 pandemic for a panel of 3,548 publicly-traded firms in Compustat and find increases for the average firm. Those increases can be captured by previous trends in market power and profitability. Furthermore, focusing on the average firm masks large heterogeneity in the disruption caused by the pandemic. We complement our analysis by studying heterogeneity by pre-pandemic baseline markup rates, firm size, stock-exchange tenure, employment, profitability, and market share. We find that firms that have lower profitability than what we could expect from their previous trends tend to have lower markup rates, higher market shares, and more employees.
+We explore firm-level markup and profit rates during the COVID-19 pandemic for a panel of 3,611 publicly traded firms in Compustat and find increases for the average firm. We offer conditions to give markups and profit rate forecasts a causal interpretation of what would have happened had the pandemic not happened. Our estimations suggest that had the pandemic not happened, markups would have been 4% and 7% higher than observed in 2020 and 2021, respectively, and profit rates would have been 2.1 and 6.4 percentage points lower. We perform a battery of tests to assess the robustness of our approach. We further show significant heterogeneity in the impact of the pandemic on firms by key firm characteristics and industry. We find that firms with lower than forecasted markups tend to have lower stock-exchange tenure and fewer employees.
 
 ### REFERENCES
 
@@ -116,7 +116,8 @@ Scholarship for Master Studies, Fedesarrollo, Feb-May 2012
 
 ### CONFERENCE PRESENTATIONS
 
-2022: RCEA Econometrics Conference, Econometric Society Australasian Meetings
+2023: Midwest Economics Association\
+2022: RCEA Econometrics Conference, Microsoft Research, Econometric Society Australasian Meetings\
 2020: American Causal Inference Conference (postponed)\
 2019: Advances in Field Experiments (U Chicago), California Econometrics
 Conference (UC Davis), Econometric Society's Latin American Meetings
@@ -126,15 +127,17 @@ Conference (UC Davis), Econometric Society's Latin American Meetings
 
 American Economic Association, Econometric Society, Latin American and
 Caribbean Economic Association, Broom Center for Demography, American
-Society of Hispanic Economists, European Economic Association
+Society of Hispanic Economists, European Economic Association, Midwest Economics Association
 
 ### PROFESSIONAL ACTIVITIES
 
+Referee for: Microsoft Journal of Applied Research\
 Referee for: Oxford Bulletin of Economics and Statistics\
 Conference Organizer: Southern California Graduate Conference in Applied
 Economics, 2020\
 Discussant: Los Angeles Conference in Applied Economics, 2019
 
+Mentor:  American Economics Association - CSQIEP, UCSB, 2022-23\
 Mentor:  Graduate Division Scholars Program, UCSB, 2021\
 Member of Economics Diversity Task Force, UCSB, 2020\
 Mentor: Economics Graduate Student Association, UCSB, 2019\
