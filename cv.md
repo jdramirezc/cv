@@ -31,7 +31,7 @@ This paper provides asymptotically valid tests for the null hypothesis of no tre
 ### WORKING PAPERS
 
 [**"At What Level Should One Cluster Standard Errors in Paired and
-Small-Strata Experiments?\"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820) (with Clément de Chaisemartin). Conditionally accepted in the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
+Small-Strata Experiments?\"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820) (with Clément de Chaisemartin). Accepted in the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
 
 In clustered and paired experiments, to estimate treatment effects, researchers often regress their outcome on the treatment and pair fixed effects, clustering standard errors at the unit-of-randomization level. We show that even if the treatment has no effect, a 5%-level t-test based on this regression will wrongly conclude that the treatment has an effect up to 16.5% of the time, an error rate much larger than the researcher's 5% target. To achieve their targeted error rate, researchers should instead cluster standard errors at the pair level. Using simulations, we show that similar results apply to clustered experiments with small strata.
 
