@@ -10,7 +10,7 @@ You can find my C.V. here: [[web]](https://jdramirezc.github.io/cv/cv) or [[PDF]
 **"Testing for Idiosyncratic Treatment Effect Heterogeneity\"** [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946092)
 
 **"At What Level Should One Cluster Standard Errors in Paired and
-Small-Strata Experiments?\"** (with Clément de Chaisemartin). Conditionally accepted by the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
+Small-Strata Experiments?\"** (with Clément de Chaisemartin). Accepted by the *American Economic Journal: Applied Economics*. [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520820)
 
 **"The Pandemic Effects on Market Power and Profitability\"** (with Juan Espinosa-Torres). [(Link here)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120819)
 
