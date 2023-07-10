@@ -131,6 +131,7 @@ Society of Hispanic Economists, European Economic Association, Midwest Economics
 
 ### PROFESSIONAL ACTIVITIES
 
+Referee for: Review of Economics and Statistics\
 Referee for: Microsoft Journal of Applied Research\
 Referee for: Oxford Bulletin of Economics and Statistics\
 Conference Organizer: Southern California Graduate Conference in Applied
