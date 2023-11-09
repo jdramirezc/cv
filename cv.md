@@ -1,6 +1,6 @@
 ## Jaime Ramirez-Cuellar
 Senior Research Economist at Microsoft, Redmond, WA\
-99/4623, 14820 NE 36th St, Redmond, WA 98052\
+Redmond, WA 98052\
 [Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)\
 [(PDF version available here)](https://ucsb.app.box.com/file/867460274263?s=ksill3l2h2lq1dso7s0cq7dqj7ds6dva)
 
@@ -20,7 +20,7 @@ Econometrics, Labor Economics
 
 ### CITIZENSHIP
 
-Colombian (F1 Visa with STEMP OPT option)
+Colombian (US Permanent Resident)
 
 ### JOB MARKET PAPER
 
@@ -131,6 +131,7 @@ Society of Hispanic Economists, European Economic Association, Midwest Economics
 
 ### PROFESSIONAL ACTIVITIES
 
+Referee for: Econometrica\
 Referee for: Review of Economics and Statistics\
 Referee for: Microsoft Journal of Applied Research\
 Referee for: Oxford Bulletin of Economics and Statistics\
