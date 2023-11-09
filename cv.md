@@ -1,6 +1,6 @@
 ## Jaime Ramirez-Cuellar
-Senior Research Economist at Microsoft, Redmond, WA\
-Redmond, WA 98052\
+Senior Research Economist at Microsoft\
+Redmond, WA\
 [Email: jrc@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)\
 [(PDF version available here)](https://ucsb.app.box.com/file/867460274263?s=ksill3l2h2lq1dso7s0cq7dqj7ds6dva)
 
